@@ -1,0 +1,13 @@
+path /bin /usr/bin
+pwd
+mkdir my_test_dir
+cd my_test_dir
+pwd
+cd ..
+rmdir my_test_dir
+aaaabcjakdfjla
+echo AOS_Project1_Success > final_output.txt
+cat < final_output.txt
+ls -l | grep final_output.txt
+date & pwd & whoami
+exit
